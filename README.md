@@ -1,9 +1,12 @@
 # Portfolio
-My portfolio website https://sylvance.ml/
+
+My portfolio website https://sylvance.live/
 
 ## Deployed with
-- Netlify
-- Freenom
+
+- Digital Ocean
+- Name.com
 
 ## Author
+
 Sylvance Kerandi
